@@ -1,0 +1,26 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Emilio Tobar Alfaro;Norman;;;
+FN;CHARSET=UTF-8:Norman Emilio Tobar Alfaro
+ORG;CHARSET=UTF-8:Innovamedia sa de cv
+TITLE;CHARSET=UTF-8:Gerente general
+item2.TEL;type="Teléfono":7747154
+item2.X-ABLabel;CHARSET=UTF-8:Call Us
+item3.EMAIL;type="Email":lizethreyna75@gmail.com
+item3.X-ABLabel;CHARSET=UTF-8:Email
+item4.ADR;CHARSET=UTF-8:;Final 27 calle ote #48;;San Salvador;El Salvador;503;SV
+item4.X-ABLabel;CHARSET=UTF-8:Address
+item4.X-ABADR:country
+item5.URL:https://www.qrcodechimp.com/r/smssis95dhrp
+item5.X-ABLabel;CHARSET=UTF-8:eBusiness Card
+item6.URL:https://www.yourdomain.com
+item6.X-ABLabel;CHARSET=UTF-8:Title
+item7.URL;type=facebook:
+item7.X-ABLabel;CHARSET=UTF-8:Facebook/Emilio Alfaro
+item8.URL;type=instagram:
+item8.X-ABLabel;CHARSET=UTF-8:Instagram/emiliotobar3
+item9.URL;type=twitter:
+item9.X-ABLabel;CHARSET=UTF-8:Twitter/@tobar_26
+NOTE;CHARSET=UTF-8:Description
+PHOTO;ENCODING=b;TYPE=:
+END:VCARD
